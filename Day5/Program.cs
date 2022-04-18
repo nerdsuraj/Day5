@@ -10,7 +10,9 @@ namespace Day5
     {
         static void Main(string[] args)
         {
-
+            //Evenodd.evenodd();
+            LeapYear.Yearmethod();
+            Console.ReadLine();
         }
     }
 }
