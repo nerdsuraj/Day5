@@ -12,6 +12,7 @@ namespace Day5
         {
             //Evenodd.evenodd();
             LeapYear.Yearmethod();
+            Swaptwonum.swaptwonum();
             Console.ReadLine();
         }
     }
