@@ -24,7 +24,9 @@ namespace Day5
 
             //PowerOf2.method();
 
-            Factor.factormethod();
+            //Factor.factormethod();
+
+            HarmonicClass.harmonicmethod();
 
             Console.ReadLine();
         }
