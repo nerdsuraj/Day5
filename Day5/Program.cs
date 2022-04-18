@@ -20,7 +20,9 @@ namespace Day5
 
             //vowelConsonant.vowelConsonantmthod();
 
-            LargestThreeNumber.largthreemethod();
+            //LargestThreeNumber.largthreemethod();
+
+            PowerOf2.method();
 
             Console.ReadLine();
         }

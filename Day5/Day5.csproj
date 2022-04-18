@@ -46,6 +46,7 @@
     <Compile Include="Evenodd.cs" />
     <Compile Include="LargestThreeNumber.cs" />
     <Compile Include="LeapYear.cs" />
+    <Compile Include="PowerOf2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuotientRemainder.cs" />
