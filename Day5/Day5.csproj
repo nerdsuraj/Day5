@@ -47,7 +47,6 @@
     <Compile Include="LeapYear.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuotientRemainder.cs" />
     <Compile Include="Swaptwonum.cs" />
   </ItemGroup>
   <ItemGroup>
