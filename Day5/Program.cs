@@ -10,7 +10,27 @@ namespace Day5
     {
         static void Main(string[] args)
         {
+            //Evenodd.evenodd();
 
+            //LeapYear.Yearmethod();
+
+            //Swaptwonum.swaptwonum();
+
+            //QuotientRemainder.quotientRemainder();
+
+            //vowelConsonant.vowelConsonantmthod();
+
+            //LargestThreeNumber.largthreemethod();
+
+            //PowerOf2.method();
+
+            //Factor.factormethod();
+
+            //HarmonicClass.harmonicmethod();
+
+            Flipcoin.flipcoin();
+
+            Console.ReadLine();
         }
     }
 }
