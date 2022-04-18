@@ -22,7 +22,9 @@ namespace Day5
 
             //LargestThreeNumber.largthreemethod();
 
-            PowerOf2.method();
+            //PowerOf2.method();
+
+            Factor.factormethod();
 
             Console.ReadLine();
         }
