@@ -11,13 +11,16 @@ namespace Day5
         static void Main(string[] args)
         {
             //Evenodd.evenodd();
-            LeapYear.Yearmethod();
 
-            Swaptwonum.swaptwonum();
+            //LeapYear.Yearmethod();
 
-            QuotientRemainder.quotientRemainder();
+            //Swaptwonum.swaptwonum();
 
-            vowelConsonant.vowelConsonantmthod();
+            //QuotientRemainder.quotientRemainder();
+
+            //vowelConsonant.vowelConsonantmthod();
+
+            LargestThreeNumber.largthreemethod();
 
             Console.ReadLine();
         }
