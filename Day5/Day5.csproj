@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Evenodd.cs" />
     <Compile Include="Factor.cs" />
+    <Compile Include="Flipcoin.cs" />
     <Compile Include="HarmonicClass.cs" />
     <Compile Include="LargestThreeNumber.cs" />
     <Compile Include="LeapYear.cs" />

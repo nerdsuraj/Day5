@@ -26,7 +26,9 @@ namespace Day5
 
             //Factor.factormethod();
 
-            HarmonicClass.harmonicmethod();
+            //HarmonicClass.harmonicmethod();
+
+            Flipcoin.flipcoin();
 
             Console.ReadLine();
         }
